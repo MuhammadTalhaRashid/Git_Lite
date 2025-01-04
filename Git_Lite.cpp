@@ -1,13 +1,3 @@
-/*
-Abdullah Nasir 23i-0726
-Talha Rashid 23i-3050
-Afnan Rizwan 23i-0561
-
-*/
-
-
-
-
 #include <iostream>
 #include <fstream>
 #include <cmath>
